@@ -1,5 +1,7 @@
 # OpenAI HR Attrition Insights Generator
 
+> Built as part of my journey into AI-powered data analytics and future work in impact-driven organizations.
+
 ## Overview
 This project is an AI-powered data analytics tool that uses the OpenAI API and Python to analyze an HR attrition dataset and generate clear, human-readable business insights.
 
@@ -12,6 +14,16 @@ The goal of this project is to:
 - Analyze employee attrition patterns
 - Generate automated insights using AI
 - Bridge the gap between raw data and business understanding
+
+---
+
+## Business Value
+
+This tool helps organizations:
+- Identify high-risk departments and roles
+- Understand drivers of employee turnover
+- Improve retention strategies
+- Reduce recruitment and training costs
 
 ---
 
